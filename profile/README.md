@@ -73,12 +73,9 @@ Oito frentes que se combinam conforme o problema. Entramos onde o dado nasce e v
 ## Como trabalhamos
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'background':'#0E0E11','primaryColor':'#16161A','primaryTextColor':'#F5F5F7','primaryBorderColor':'#3B82F6','lineColor':'#8A8A93','fontFamily':'Manrope, Inter, sans-serif'}}}%%
+%%{init: {'theme':'base','themeVariables':{'background':'#0E0E11','primaryColor':'#16161A','primaryTextColor':'#F5F5F7','primaryBorderColor':'#3B82F6','lineColor':'#8A8A93'}}}%%
 flowchart LR
-  A["01 · Diagnóstico<br/><small>problema, dados e escopo</small>"] --> B["02 · Desenho<br/><small>arquitetura e telas validadas</small>"]
-  B --> C["03 · Construção<br/><small>entregas curtas e revisadas</small>"]
-  C --> D["04 · Qualidade<br/><small>testes e evidências</small>"]
-  D --> E["05 · Operação<br/><small>produção, monitoria e docs</small>"]
+  A["01 · Diagnóstico"] --> B["02 · Desenho"] --> C["03 · Construção"] --> D["04 · Qualidade"] --> E["05 · Operação"]
 ```
 
 | | Etapa | O que acontece |
@@ -134,7 +131,7 @@ flowchart LR
 
 ## Sócios
 
-Quatro sócios fundadores, cada um à frente de uma especialidade e todos com responsabilidade direta sobre o que entregamos.
+Cinco sócios fundadores, cada um à frente de uma especialidade e todos com responsabilidade direta sobre o que entregamos.
 
 | | Sócio | Especialidade |
 |:--:|---|---|
@@ -142,6 +139,7 @@ Quatro sócios fundadores, cada um à frente de uma especialidade e todos com re
 | <img src="https://img.shields.io/badge/-HM-3B82F6?style=flat-square" alt=""> | [**Henrique Marcossi**](https://henriquemarcossi.datariun.com/) | Qualidade e IA aplicada a testes |
 | <img src="https://img.shields.io/badge/-NM-3B82F6?style=flat-square" alt=""> | [**Nathalia Marcossi**](https://nathaliamarcossi.datariun.com/) | Qualidade e validação de sistemas |
 | <img src="https://img.shields.io/badge/-MR-3B82F6?style=flat-square" alt=""> | [**Mirian Rebouças**](https://mirianreboucas.datariun.com/) | Engenharia e produtos de dados |
+| <img src="https://img.shields.io/badge/-BG-3B82F6?style=flat-square" alt=""> | [**Bruno Galvão**](https://brunogalvao.datariun.com/) | Front-end, design systems e interfaces de IA |
 
 <br>
 
