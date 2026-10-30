@@ -107,6 +107,14 @@ flowchart LR
       Apresentação do método, pensada para transformar visitantes em alunos.
     </td>
   </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <b>Documentação dos produtos</b><br>
+      <sub>Um site por produto, em português e inglês, com busca e um assistente que responde a partir da própria documentação</sub><br><br>
+      Guias passo a passo com as telas reais, mapa interativo do produto e feedback em cada página.<br>
+      <a href="https://docs.datariun.com">docs.datariun.com</a> · <a href="https://task-finance.docs.datariun.com">task-finance.docs.datariun.com</a>
+    </td>
+  </tr>
 </table>
 
 ## Ferramentas do dia a dia
